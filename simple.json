@@ -1,0 +1,27 @@
+{
+  "first": "Brendan",
+  "last": "Coll",
+  "email": "mrbbot@gmail.com",
+  "age": 15.75,
+  "is-boy": true,
+  "zebra": "meh",
+  "hates": null,
+  "address": {
+    "house-number": 7,
+    "street": "Tenison Avenue",
+    "city": "Cambridge",
+    "country": "England"
+  },
+  "friends": [
+    {
+      "test1": "meh",
+      "test2": "yay!"
+    },
+    "Owen",
+    "Eddy",
+    "Finn",
+    9.0,
+    false,
+    10.5
+  ]
+}
